@@ -20,6 +20,7 @@ The abbreviations of the vaiable names denote: <br>
 
 <br>
 The detailed description for the variables: <br>
+Please note that: the data were normalised into a -1 to 1 range, so the measurements are normalised and thus unitlless. <br>
 * activity
   * the six activities each volunteer performed:
   * WALKING
