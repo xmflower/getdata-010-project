@@ -6,7 +6,7 @@ This project is to get and clean Samsung smartphone data to create a tidy data s
 * run_analysis.R
   * This is the R script to get and clean raw data, and then create a tidy data set.
 * CodeBook.md
-  * This is the code book that describes the variables, the data, and any transformations or work to clean up the data
+  * This is the code book that describes the variables, the data, and any transformations or work to clean up the data. <br>
 ## How to use the run_analysis.R script
 * Put the raw data (Samsung smartphone data) to your working directory.
 * Run the run_analysis.R script.
