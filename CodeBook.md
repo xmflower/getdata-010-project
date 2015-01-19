@@ -1,7 +1,22 @@
 ## Tidy data set
 The tidy data set is draw from the Samsung data, which collected from the accelerometers from the Samsung Galaxy S smartphone, from experiments carried out with a group of 30 volunteers. For full description, look at the 'Raw data' part. <br><br>
+
 The tidy data set is about the average of each variable for each activity and each subject. <br><br>
-The description for the variables: <br>
+
+The abbreviations of the vaiable names denote: <br>
+* Avg_ : the average for each activity and each subject
+* t_ : time domain signals
+* f_ : frequency domain signals
+* BodyAcc : body acceleration signals
+* GravityAcc : gravity acceleration signals
+* _X : X-axial signals
+* _Y : Y-axial signals
+* _Z : Z-axial signals
+* _Mean : the Mean value
+* _Standard : the Standard deviation
+
+
+The detailed description for the variables: <br>
 * activity
   * the six activities each volunteer performed:
   * WALKING
