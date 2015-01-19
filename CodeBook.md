@@ -14,12 +14,17 @@ The description for the variables: <br>
   * the value of the subject represents a volunteer who carried out the experiment
   * the value is from 1 to 30, represents volunteer No.1 to No.30 
 * Avg_tBodyAcc_Mean_X
-  * sss
+  * the average of the Mean value of time domain body acceleration signals in X-axial for each activity and each subject
 * Avg_tBodyAcc_Mean_Y
-Avg_tBodyAcc_Mean_Z
-Avg_tBodyAcc_Standard_X
-Avg_tBodyAcc_Standard_Y
-Avg_tBodyAcc_Standard_Z
+  * the average of the Mean value of time domain body acceleration signals in Y-axial for each activity and each subject
+* Avg_tBodyAcc_Mean_Z
+  * the average of the Mean value of time domain body acceleration signals in Z-axial for each activity and each subject
+* Avg_tBodyAcc_Standard_X
+  * the average of the Standard deviation of time domain body acceleration signals in X-axial for each activity and each subject
+* Avg_tBodyAcc_Standard_Y
+  * the average of the Standard deviation of time domain body acceleration signals in Y-axial for each activity and each subject
+* Avg_tBodyAcc_Standard_Z
+  * the average of the Standard deviation of time domain body acceleration signals in Z-axial for each activity and each subject
 Avg_tGravityAcc_Mean_X
 Avg_tGravityAcc_Mean_Y
 Avg_tGravityAcc_Mean_Z
