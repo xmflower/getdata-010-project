@@ -4,12 +4,12 @@ The tidy data set is about the average of each variable for each activity and ea
 The description for the variables: <br>
 * activity
   * the six activities each volunteer performed:
-    * WALKING
-    * WALKING_UPSTAIRS 
-    * WALKING_DOWNSTAIRS
-    * SITTING
-    * STANDING 
-    * LAYING
+  * WALKING
+  * WALKING_UPSTAIRS 
+  * WALKING_DOWNSTAIRS
+  * SITTING
+  * STANDING 
+  * LAYING
 * subject
   * the value of the subject represents a volunteer who carried out the experiment
   * the value is from 1 to 30, represents volunteer No.1 to No.30 
