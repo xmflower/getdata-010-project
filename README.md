@@ -10,9 +10,9 @@
   * This is the code book that describes the variables, the data, and any transformations or work to clean up the data. <br>
 
 ## How to use the script
-* Put the raw data (Samsung smartphone data) to your working directory.
+* Put the raw data (Samsung smartphone data) into your working directory. That is, under your working directory, there should be a directory "UCI HAR Dataset" with the raw data in it. 
 * Run the run_analysis.R script.
-* The script will create a new txt file named 'UCI_HAR_Results.txt' in your working directory, which is the tidy data set.
-* For more details, see the CodeBook.md
+* The script will create a new txt file named 'tidy_data.txt' in your working directory, which is the tidy data set.
+* For more details about how the script cleans data, see the CodeBook.md
 
 
