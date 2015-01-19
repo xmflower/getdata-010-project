@@ -7,15 +7,17 @@ The abbreviations of the vaiable names denote: <br>
 * Avg_ : the average for each activity and each subject
 * t_ : time domain signals
 * f_ : frequency domain signals
-* BodyAcc : body acceleration signals
-* GravityAcc : gravity acceleration signals
+* BodyAcc_ : body acceleration signals
+* GravityAcc_ : gravity acceleration signals
+* BodyAccJerk_ : Jerk signals obtained by the body linear acceleration derived in time
+* BodyGyroJerk_ : Jerk signals obtained by the body angular velocity derived in time
 * _X : X-axial signals
 * _Y : Y-axial signals
 * _Z : Z-axial signals
 * _Mean : the Mean value
 * _Standard : the Standard deviation
 
-
+<br>
 The detailed description for the variables: <br>
 * activity
   * the six activities each volunteer performed:
@@ -40,19 +42,32 @@ The detailed description for the variables: <br>
   * the average of the Standard deviation of time domain body acceleration signals in Y-axial for each activity and each subject
 * Avg_tBodyAcc_Standard_Z
   * the average of the Standard deviation of time domain body acceleration signals in Z-axial for each activity and each subject
-Avg_tGravityAcc_Mean_X
-Avg_tGravityAcc_Mean_Y
-Avg_tGravityAcc_Mean_Z
-Avg_tGravityAcc_Standard_X
-Avg_tGravityAcc_Standard_Y
-Avg_tGravityAcc_Standard_Z
-Avg_tBodyAccJerk_Mean_X
-Avg_tBodyAccJerk_Mean_Y
-Avg_tBodyAccJerk_Mean_Z
-Avg_tBodyAccJerk_Standard_X
-Avg_tBodyAccJerk_Standard_Y
-Avg_tBodyAccJerk_Standard_Z
-Avg_tBodyGyro_Mean_X
+* Avg_tGravityAcc_Mean_X
+  * the average of the Mean value of time domain gravity acceleration signals in X-axial for each activity and each subject
+* Avg_tGravityAcc_Mean_Y
+  * the average of the Mean value of time domain gravity acceleration signals in Y-axial for each activity and each subject
+* Avg_tGravityAcc_Mean_Z
+  * the average of the Mean value of time domain gravity acceleration signals in Z-axial for each activity and each subject
+* Avg_tGravityAcc_Standard_X
+  * the average of the Standard deviation of time domain gravity acceleration signals in X-axial for each activity and each subject
+* Avg_tGravityAcc_Standard_Y
+  * the average of the Standard deviation of time domain gravity acceleration signals in Y-axial for each activity and each subject
+* Avg_tGravityAcc_Standard_Z
+  * the average of the Standard deviation of time domain gravity acceleration signals in Z-axial for each activity and each subject
+* Avg_tBodyAccJerk_Mean_X
+  * the average of the Mean value of Jerk signals, which obtained by the body linear acceleration derived in time, in X-axial for each activity and each subject
+* Avg_tBodyAccJerk_Mean_Y
+  * the average of the Mean value of Jerk signals, which obtained by the body linear acceleration derived in time, in Y-axial for each activity and each subject
+* Avg_tBodyAccJerk_Mean_Z
+  * the average of the Mean value of Jerk signals, which obtained by the body linear acceleration derived in time, in Z-axial for each activity and each subject 
+* Avg_tBodyAccJerk_Standard_X
+  * the average of the Standard deviation of Jerk signals, which obtained by the body linear acceleration derived in time, in X-axial for each activity and each subject
+* Avg_tBodyAccJerk_Standard_Y
+  * the average of the Standard deviation of Jerk signals, which obtained by the body linear acceleration derived in time, in Y-axial for each activity and each subject
+* Avg_tBodyAccJerk_Standard_Z
+  * the average of the Standard deviation of Jerk signals, which obtained by the body linear acceleration derived in time, in Z-axial for each activity and each subject
+* Avg_tBodyGyro_Mean_X
+  * 
 Avg_tBodyGyro_Mean_Y
 Avg_tBodyGyro_Mean_Z
 Avg_tBodyGyro_Standard_X
