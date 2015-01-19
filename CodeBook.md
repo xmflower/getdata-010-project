@@ -6,12 +6,13 @@ The tidy data set is about the average of each variable for each activity and ea
 The abbreviations of the vaiable names denote: <br>
 * Avg_ : the average for each activity and each subject
 * t_ : time domain signals
-* f_ : frequency domain signals
-* BodyAcc_ : body acceleration signals from the accelerometer
-* BodyGyro_ : body angular velocity signals from the gyroscope
-* GravityAcc_ : gravity acceleration signals
-* BodyAccJerk_ : Jerk signals obtained by the body linear acceleration derived in time
-* BodyGyroJerk_ : Jerk signals obtained by the body angular velocity derived in time
+* f_ : frequency domain signals (a Fast Fourier Transform (FFT) was applied)
+* BodyAcc : body acceleration signals from the accelerometer
+* BodyGyro : body angular velocity signals from the gyroscope
+* GravityAcc : gravity acceleration signals
+* BodyAccJerk : Jerk signals obtained by the body linear acceleration derived in time
+* BodyGyroJerk : Jerk signals obtained by the body angular velocity derived in time
+* Mag : magnitude of these three-dimensional signals were calculated using the Euclidean norm
 * _X : X-axial signals
 * _Y : Y-axial signals
 * _Z : Z-axial signals
@@ -122,12 +123,12 @@ Avg_fBodyGyro_Standard_Y
 Avg_fBodyGyro_Standard_Z
 Avg_fBodyAccMag_Mean
 Avg_fBodyAccMag_Standard
-Avg_fBodyBodyAccJerkMag_Mean
-Avg_fBodyBodyAccJerkMag_Standard
-Avg_fBodyBodyGyroMag_Mean
-Avg_fBodyBodyGyroMag_Standard
-Avg_fBodyBodyGyroJerkMag_Mean
-Avg_fBodyBodyGyroJerkMag_Standard
+Avg_fBodyAccJerkMag_Mean
+Avg_fBodyAccJerkMag_Standard
+Avg_fBodyGyroMag_Mean
+Avg_fBodyGyroMag_Standard
+Avg_fBodyGyroJerkMag_Mean
+Avg_fBodyGyroJerkMag_Standard
 
 
 ## Raw data
