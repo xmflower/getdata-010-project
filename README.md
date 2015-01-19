@@ -9,7 +9,7 @@
 * CodeBook.md
   * This is the code book that describes the variables, the data, and any transformations or work to clean up the data. <br>
 
-## How to use the run_analysis.R script
+## How to use the script
 * Put the raw data (Samsung smartphone data) to your working directory.
 * Run the run_analysis.R script.
 * The script will create a new txt file named 'UCI_HAR_Results.txt' in your working directory, which is the tidy data set.
