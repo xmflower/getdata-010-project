@@ -4,6 +4,7 @@ The tidy data set is draw from the Samsung data, which collected from the accele
 The tidy data set is about the average of each variable for each activity and each subject. <br><br>
 
 The abbreviations of the vaiable names denote: <br>
+**I kept some abbreviations as they were, cause if I use descriptive names for all words, the variable names will be too long <br>
 * Avg_ : the average for each activity and each subject
 * t_ : time domain signals
 * f_ : frequency domain signals (a Fast Fourier Transform (FFT) was applied)
@@ -21,7 +22,7 @@ The abbreviations of the vaiable names denote: <br>
 
 <br>
 The detailed description for the variables: <br>
-Please note that: the data were normalised into a -1 to 1 range, so the measurements are normalised and thus unitlless. <br>
+**Please note that: the data were normalised into a -1 to 1 range, so the measurements are normalised and thus unitlless. <br>
 * activity
   * the six activities each volunteer performed:
   * WALKING
