@@ -1,4 +1,4 @@
-# getdata-010-project
+
 ## Introduction
 * This is for the 'Getting and Cleaning Data' course project. <br>
 * This project is to get and clean the Samsung smartphone data to create a tidy data set.
