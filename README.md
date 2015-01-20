@@ -8,8 +8,10 @@
 * run_analysis.R
   * This is the R script to get and clean raw data, and then create a tidy data set.
 * CodeBook.md
-  * This is the code book that describes the variables, the data, and any transformations or work to clean up the data. <br>
-
+  * This is the code book that describes the variables, the data, and any transformations or work to clean up the data. 
+* tidy_data.txt
+  * This is the tidy data set. <br>
+  
 ## How to use the script
 * Download the raw data from course project assignment page, or from this link https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 * Unzip the raw data into your working directory. That is, under your working directory, there should be a directory "UCI HAR Dataset" with the raw data in it.
