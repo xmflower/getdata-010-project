@@ -178,6 +178,7 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
  * A 561-feature vector with time and frequency domain variables. 
  * Its activity label. 
  * An identifier of the subject who carried out the experiment.
+<br>
 For more information about this dataset contact: activityrecognition@smartlab.ws <br>
 
 ## The process to create the tidy data set
