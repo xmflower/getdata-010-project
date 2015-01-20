@@ -114,33 +114,59 @@ The detailed description for the variables: <br>
   * the average of the Mean value of the magnitude, which were calculated using the Euclidean norm of the three-dimensional Jerk signals which obtained by the body angular velocity derived in time, for each activity and each subject
 * Avg_tBodyGyroJerkMag_Standard
   * the average of the Standard deviation of the magnitude, which were calculated using the Euclidean norm of the three-dimensional Jerk signals which obtained by the body angular velocity derived in time, for each activity and each subject
-Avg_fBodyAcc_Mean_X
-Avg_fBodyAcc_Mean_Y
-Avg_fBodyAcc_Mean_Z
-Avg_fBodyAcc_Standard_X
-Avg_fBodyAcc_Standard_Y
-Avg_fBodyAcc_Standard_Z
-Avg_fBodyAccJerk_Mean_X
-Avg_fBodyAccJerk_Mean_Y
-Avg_fBodyAccJerk_Mean_Z
-Avg_fBodyAccJerk_Standard_X
-Avg_fBodyAccJerk_Standard_Y
-Avg_fBodyAccJerk_Standard_Z
-Avg_fBodyGyro_Mean_X
-Avg_fBodyGyro_Mean_Y
-Avg_fBodyGyro_Mean_Z
-Avg_fBodyGyro_Standard_X
-Avg_fBodyGyro_Standard_Y
-Avg_fBodyGyro_Standard_Z
-Avg_fBodyAccMag_Mean
-Avg_fBodyAccMag_Standard
-Avg_fBodyAccJerkMag_Mean
-Avg_fBodyAccJerkMag_Standard
-Avg_fBodyGyroMag_Mean
-Avg_fBodyGyroMag_Standard
-Avg_fBodyGyroJerkMag_Mean
-Avg_fBodyGyroJerkMag_Standard
-
+* Avg_fBodyAcc_Mean_X
+  * the average of the Mean value of frequency domain body acceleration signals of X-axial for each activity and each subject
+* Avg_fBodyAcc_Mean_Y
+  * the average of the Mean value of frequency domain body acceleration signals of Y-axial for each activity and each subject
+* Avg_fBodyAcc_Mean_Z
+  * the average of the Mean value of frequency domain body acceleration signals of Z-axial for each activity and each subject
+* Avg_fBodyAcc_Standard_X
+  * the average of the Standard deviation of frequency domain body acceleration signals of X-axial for each activity and each subject
+* Avg_fBodyAcc_Standard_Y
+  * the average of the Standard deviation of frequency domain body acceleration signals of Y-axial for each activity and each subject
+* Avg_fBodyAcc_Standard_Z
+  * the average of the Standard deviation of frequency domain body acceleration signals of Z-axial for each activity and each subject
+* Avg_fBodyAccJerk_Mean_X
+  * the average of the Mean value of Jerk signals, which obtained by the body linear acceleration derived in frequency, of X-axial for each activity and each subject
+* Avg_fBodyAccJerk_Mean_Y
+  * the average of the Mean value of Jerk signals, which obtained by the body linear acceleration derived in frequency, of Y-axial for each activity and each subject
+* Avg_fBodyAccJerk_Mean_Z
+  * the average of the Mean value of Jerk signals, which obtained by the body linear acceleration derived in frequency, of Z-axial for each activity and each subject
+* Avg_fBodyAccJerk_Standard_X
+  * the average of the Standard deviation of Jerk signals, which obtained by the body linear acceleration derived in frequency, of X-axial for each activity and each subject
+* Avg_fBodyAccJerk_Standard_Y
+  * the average of the Standard deviation of Jerk signals, which obtained by the body linear acceleration derived in frequency, of Y-axial for each activity and each subject
+* Avg_fBodyAccJerk_Standard_Z
+  * the average of the Standard deviation of Jerk signals, which obtained by the body linear acceleration derived in frequency, of Z-axial for each activity and each subject
+* Avg_fBodyGyro_Mean_X
+  * the average of the Mean value of frequency domain body angular velocity signals of X-axial for each activity and each subject
+* Avg_fBodyGyro_Mean_Y
+  * the average of the Mean value of frequency domain body angular velocity signals of Y-axial for each activity and each subject
+* Avg_fBodyGyro_Mean_Z
+  * the average of the Mean value of frequency domain body angular velocity signals of Z-axial for each activity and each subject
+* Avg_fBodyGyro_Standard_X
+  * the average of the Standard deviation of frequency domain body angular velocity signals of X-axial for each activity and each subject
+* Avg_fBodyGyro_Standard_Y
+  * the average of the Standard deviation of frequency domain body angular velocity signals of Y-axial for each activity and each subject
+* Avg_fBodyGyro_Standard_Z
+  * the average of the Standard deviation of frequency domain body angular velocity signals of Z-axial for each activity and each subject
+* Avg_fBodyAccMag_Mean
+  * the average of the Mean value of the magnitude, which were calculated of the three-dimensional frequency domain body acceleration signals using the Euclidean norm, for each activity and each subject
+* Avg_fBodyAccMag_Standard
+  * the average of the Standard deviation of the magnitude, which were calculated of the three-dimensional frequency domain body acceleration signals using the Euclidean norm, for each activity and each subject
+* Avg_fBodyAccJerkMag_Mean
+  * the average of the Mean value of the magnitude, which were calculated using the Euclidean norm of the three-dimensional Jerk signals which obtained by the body linear acceleration derived in frequency, for each activity and each subject
+* Avg_fBodyAccJerkMag_Standard
+  * the average of the Standard deviation of the magnitude, which were calculated using the Euclidean norm of the three-dimensional Jerk signals which obtained by the body linear acceleration derived in frequency, for each activity and each subject
+* Avg_fBodyGyroMag_Mean
+  * the average of the Mean value of the magnitude, which were calculated of the three-dimensional frequency domain body angular velocity signals using the Euclidean norm, for each activity and each subject
+* Avg_fBodyGyroMag_Standard
+  * the average of the Standard deviation of the magnitude, which were calculated of the three-dimensional frequency domain body angular velocity signals using the Euclidean norm, for each activity and each subject
+* Avg_fBodyGyroJerkMag_Mean
+  * the average of the Mean value of the magnitude, which were calculated using the Euclidean norm of the three-dimensional Jerk signals which obtained by the body angular velocity derived in frequency, for each activity and each subject
+* Avg_fBodyGyroJerkMag_Standard
+  * the average of the Standard deviation of the magnitude, which were calculated using the Euclidean norm of the three-dimensional Jerk signals which obtained by the body angular velocity derived in frequency, for each activity and each subject
+<br>
 
 ## Raw data
 
