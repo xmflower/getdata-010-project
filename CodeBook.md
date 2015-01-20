@@ -94,16 +94,26 @@ The detailed description for the variables: <br>
   * the average of the Standard deviation of Jerk signals, which obtained by the body angular velocity derived in time, of Y-axial for each activity and each subject
 * Avg_tBodyGyroJerk_Standard_Z
   * the average of the Standard deviation of Jerk signals, which obtained by the body angular velocity derived in time, of Z-axial for each activity and each subject
-Avg_tBodyAccMag_Mean
-Avg_tBodyAccMag_Standard
-Avg_tGravityAccMag_Mean
-Avg_tGravityAccMag_Standard
-Avg_tBodyAccJerkMag_Mean
-Avg_tBodyAccJerkMag_Standard
-Avg_tBodyGyroMag_Mean
-Avg_tBodyGyroMag_Standard
-Avg_tBodyGyroJerkMag_Mean
-Avg_tBodyGyroJerkMag_Standard
+* Avg_tBodyAccMag_Mean
+  * the average of the Mean value of the magnitude, which were calculated of the three-dimensional time domain body acceleration signals using the Euclidean norm, for each activity and each subject
+* Avg_tBodyAccMag_Standard
+  * the average of the Standard deviation of the magnitude, which were calculated of the three-dimensional time domain body acceleration signals using the Euclidean norm, for each activity and each subject
+* Avg_tGravityAccMag_Mean
+  * the average of the Mean value of the magnitude, which were calculated of the three-dimensional time domain gravity acceleration signals using the Euclidean norm, for each activity and each subject
+* Avg_tGravityAccMag_Standard
+  * the average of the Standard deviation of the magnitude, which were calculated of the three-dimensional time domain gravity acceleration signals using the Euclidean norm, for each activity and each subject
+* Avg_tBodyAccJerkMag_Mean
+  * the average of the Mean value of the magnitude, which were calculated using the Euclidean norm of the three-dimensional Jerk signals which obtained by the body linear acceleration derived in time, for each activity and each subject
+* Avg_tBodyAccJerkMag_Standard
+  * the average of the Standard deviation of the magnitude, which were calculated using the Euclidean norm of the three-dimensional Jerk signals which obtained by the body linear acceleration derived in time, for each activity and each subject
+* Avg_tBodyGyroMag_Mean
+  * the average of the Mean value of the magnitude, which were calculated of the three-dimensional time domain body angular velocity signals using the Euclidean norm, for each activity and each subject
+* Avg_tBodyGyroMag_Standard
+  * the average of the Standard deviation of the magnitude, which were calculated of the three-dimensional time domain body angular velocity signals using the Euclidean norm, for each activity and each subject
+* Avg_tBodyGyroJerkMag_Mean
+  * the average of the Mean value of the magnitude, which were calculated using the Euclidean norm of the three-dimensional Jerk signals which obtained by the body angular velocity derived in time, for each activity and each subject
+* Avg_tBodyGyroJerkMag_Standard
+  * the average of the Standard deviation of the magnitude, which were calculated using the Euclidean norm of the three-dimensional Jerk signals which obtained by the body angular velocity derived in time, for each activity and each subject
 Avg_fBodyAcc_Mean_X
 Avg_fBodyAcc_Mean_Y
 Avg_fBodyAcc_Mean_Z
