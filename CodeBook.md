@@ -197,4 +197,4 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
  * calculate average of each variable for each activity and each subject
  * create txt file for tidy data set
 * The script will create a new txt file named 'tidy_data.txt' in your working directory, which is the tidy data set.
-
+<br>
